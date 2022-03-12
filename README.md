@@ -1,2 +1,5 @@
-# users-list
-Created with CodeSandbox
+USERS LIST APP
+
+How to start the app
+1. npm install
+2. npm start
